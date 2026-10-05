@@ -1,0 +1,19 @@
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.iml
+*.swp
+# Environment files and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+# Logs
+*.log
+# NetBeans
+build/
+dist/
+nbproject/private/
